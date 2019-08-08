@@ -10,7 +10,7 @@ fanart="http://"
 description=""
 
 name="Youtube Free Movies"
-section="true"
+section="false"
 search="false"
 subid="false"
 playlistid="PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx"
