@@ -1,5 +1,5 @@
 name="Concert and Music Videos"
-section="false"
+section="true"
 search="false"
 subid="musicvids"
 playlistid="false"
