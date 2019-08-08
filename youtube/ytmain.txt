@@ -1,7 +1,7 @@
 name="Concert and Music Videos"
 section="true"
 search="false"
-subid="concerts"
+subid="musicvids"
 playlistid="false"
 channelid="false"
 videoid="false"
