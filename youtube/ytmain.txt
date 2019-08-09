@@ -9,6 +9,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/music_
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/music_video_folder_fanart.jpg"
 description="Concert and Music Videos"
 
+name="Aaron Pryor vs. Alexis Arguello - 1982"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="false"
+videoid="O39psaFgk_U"
+icon="http://"
+fanart="http://"
+description="Aaron Pryor vs. Alexis Arguello - 1982"
+
 name="Youtube Free Movies"
 section="false"
 search="false"
