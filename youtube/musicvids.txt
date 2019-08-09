@@ -72,7 +72,7 @@ playlistid="PLR-rr2-b6d6TatxrOOftSl6gsRdxyX0iL"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/journey_icon.jpg"
-fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/joureny_fanart.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/journey_fanart.jpg"
 description="Joureny"
 
 name="Maroon 5"
