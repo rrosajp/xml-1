@@ -21,7 +21,7 @@ fanart="http://"
 description="Youtube Free Movies"
 
 name="Famous Boxing matches"
-section="false"
+section="true"
 search="false"
 subid="boxing"
 playlistid="false"
