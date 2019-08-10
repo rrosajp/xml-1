@@ -53,6 +53,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/commer
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/commercials_fanart.jpg"
 description="10 Famous Funny Commercials"
 
+name="Documentaries"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="FreeDocumentary"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sharks_documentary_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sharks_documentary_fanart.jpg"
+description="Documentaries"
+
 name="Sharks"
 section="false"
 search="false"
