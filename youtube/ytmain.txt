@@ -42,6 +42,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/boxing
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/boxing_fanart.jpg"
 description="Famous Boxing matches"
 
+name="MLB"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="MLB"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/mlb_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/mlb_fanart.jpg"
+description="MLB"
+
 name="NFL"
 section="false"
 search="false"
