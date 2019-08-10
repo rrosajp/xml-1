@@ -53,6 +53,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/mlb_ic
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/mlb_fanart.jpg"
 description="MLB"
 
+name="NBA"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="NBA"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/nba_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/nba_fanart.jpg"
+description="NBA"
+
 name="NFL"
 section="false"
 search="false"
