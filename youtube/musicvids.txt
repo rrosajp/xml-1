@@ -31,6 +31,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/music_
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/music_video_folder_fanart.jpg"
 description="TheMusic 25"
 
+name="TopMusicMafia"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="UCVDKPOPmcsZuEjLVqFgQDcg"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/music_video_folder_icon.png"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/music_video_folder_fanart.jpg"
+description="TopMusicMafia"
+
 name="Bruno Mars"
 section="false"
 search="false"
