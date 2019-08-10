@@ -141,7 +141,6 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/linkin
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/linkin_park_fanart.jpg"
 description="Linkin Park"
 
-
 name="Maroon 5"
 section="false"
 search="false"
