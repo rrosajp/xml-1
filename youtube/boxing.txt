@@ -82,7 +82,7 @@ subid="false"
 playlistid="false"
 channelid="false"
 videoid="iqRW3eWzggg"
-icon="http://"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/iqRW3eWzggg.jpg"
 fanart="http://"
 description="Arturo Gatti vs. Micky Ward I - 2005"
 
