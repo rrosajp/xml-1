@@ -86,7 +86,16 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/nhl_ic
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/nhl_fanart.jpg"
 description="NHL"
 
-
+name="ESPN"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="ESPN"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/espn_icon.png"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/espn_fanart.jpg"
+description="ESPN"
 
 name="Comedy Central"
 section="false"
