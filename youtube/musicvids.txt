@@ -9,6 +9,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/music_
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/music_video_folder_fanart.jpg"
 description="Music Channel"
 
+name="Music Charts"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="MrArianit500"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/music_video_folder_icon.png"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/music_video_folder_fanart.jpg"
+description="Music Charts"
+
 name="Bruno Mars"
 section="false"
 search="false"
