@@ -31,6 +31,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/boxing
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/boxing_fanart.jpg"
 description="Famous Boxing matches"
 
+name="WatchMojo"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="WatchMojo"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/comedycentral_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/comedycentral_fanart.jpg"
+description="WatchMojo"
+
 name="Comedy Central"
 section="false"
 search="false"
