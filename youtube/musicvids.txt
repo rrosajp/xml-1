@@ -97,6 +97,18 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/journe
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/journey_fanart.jpg"
 description="Joureny"
 
+name="Linkin Park"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6Qj7jyWvCZEGHqNBkbui35p"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/linkin_park_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/linkin_park_fanart.jpg"
+description="Linkin Park"
+
+
 name="Maroon 5"
 section="false"
 search="false"
