@@ -53,6 +53,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sports
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sports/nhl_fanart.jpg"
 description="NHL"
 
+name="WWE"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="WWEFanNation"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sports/wwe_icon.png"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sports/wwe_fanart.jpg"
+description="WWE"
+
 name="ESPN"
 section="false"
 search="false"
