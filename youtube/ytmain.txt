@@ -38,7 +38,7 @@ subid="false"
 playlistid="false"
 channelid="movieclipsTRAILERS"
 videoid="false"
-icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/movieclips_trailers_icon.jpg"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/movieclips_trailers_icon.png"
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/movieclips_trailers_fanart.jpg"
 description="Movieclips Trailers"
 
