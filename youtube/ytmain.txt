@@ -31,6 +31,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/watchm
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/watchmojo_fanart.png"
 description="WatchMojo"
 
+name="Movieclips Trailers"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="movieclipsTRAILERS"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/movieclips_trailers_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/movieclips_trailers_fanart.jpg"
+description="Movieclips Trailers"
+
 name="Sports"
 section="false"
 search="false"
