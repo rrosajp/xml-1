@@ -192,7 +192,7 @@ subid="false"
 playlistid="false"
 channelid="false"
 videoid="YtvA4STO6Fk"
-icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sports/4YrHssk7H0A.jpg"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sports/YtvA4STO6Fk.jpg"
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sports/boxing_fanart.jpg"
 description="Evander Holyfield vs. Michael Dokes - 1989"
 
