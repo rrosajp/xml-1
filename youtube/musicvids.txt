@@ -193,7 +193,7 @@ playlistid="PLR-rr2-b6d6TcQfY8m-1In6yl4xcwEEaB"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/reospeedwagon_icon.jpg"
-fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/reospeedwagon_icon_fanart.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/reospeedwagon_fanart.jpg"
 description="REO Speedwagon"
 
 name="Sam Smith"
