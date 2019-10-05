@@ -53,6 +53,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/bruno_
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/bruno_mars_fanart.jpg"
 description="Bruno Mars"
 
+name="Candlebox"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6SUzTT6cVsvZZfttk2AbRrB"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/candlebox_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/candlebox_fanart.jpg"
+description="Candlebox"
+
 name="Carly Simon"
 section="false"
 search="false"
