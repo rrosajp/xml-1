@@ -86,6 +86,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/counti
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/counting_crows_fanart.jpg"
 description="Counting Crows"
 
+name="Def Leppard"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6QokwfUxJN99TcepUMPdhIR"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/def_leppard_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/def_leppard_fanart.jpg"
+description="Def Leppard"
+
 name="Ed Sheeran"
 section="false"
 search="false"
