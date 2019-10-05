@@ -163,6 +163,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/linkin
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/linkin_park_fanart.jpg"
 description="Linkin Park"
 
+name="Lionel Richie"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6S2DOs2-5a1Os-0OMIIE4Mt"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/lionel_richie_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/lionel_richie_fanart.jpg"
+description="Lionel Richie"
+
 name="Maroon 5"
 section="false"
 search="false"
