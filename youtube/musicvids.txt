@@ -42,6 +42,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/music_
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/music_video_folder_fanart.jpg"
 description="TopMusicMafia"
 
+name="3 Doors Down"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6ReLufbhvNyaaFCfzQlqxhm"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/3_doors_down_poster.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/3_doors_down_fanart.jpg"
+description="3 Doors Down"
+
 name="Bruno Mars"
 section="false"
 search="false"
