@@ -185,6 +185,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/journe
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/journey_fanart.jpg"
 description="Joureny"
 
+name="Lifehouse"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6TKWWFfvr4bFjySjDK6C_Ok"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/lifehouse_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/lifehouse_fanart.jpg"
+description="Lifehouse"
+
 name="Linkin Park"
 section="false"
 search="false"
