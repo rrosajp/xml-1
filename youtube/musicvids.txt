@@ -152,6 +152,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/goo_go
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/goo_goo_dolls_fanart.jpg"
 description="Goo Goo Dolls"
 
+name="Green Day"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6TUnUmnDzo_NRCHPlDDrxlX"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/green_day_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/green_day_fanart.jpg"
+description="Green Day"
+
 name="James Taylor"
 section="false"
 search="false"
