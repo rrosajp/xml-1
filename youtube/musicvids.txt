@@ -229,6 +229,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/matchb
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/matchbox20_fanart.jpg"
 description="Matchbox Twenty"
 
+name="Nickelback"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6SA92HejLpeVe7gFRFOcJhj"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/nickelback_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/nickelback_fanart.jpg"
+description="Nickelback"
+
 name="Phil Collins"
 section="false"
 search="false"
