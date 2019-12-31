@@ -284,6 +284,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/simply
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/simply_red_fanart.jpg"
 description="Simply Red"
 
+name="Staind"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6SV3Wog_TuH6w9d49nAEElY"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/staind_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/staind_fanart.jpg"
+description="Staind"
+
 name="Steve Perry"
 section="false"
 search="false"
