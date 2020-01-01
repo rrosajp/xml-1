@@ -97,6 +97,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/counti
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/counting_crows_fanart.jpg"
 description="Counting Crows"
 
+name="Creed"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6QDGu48yBRQH4y1IdRVEJqm"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/creed_icon.png"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/creed_fanart.jpg"
+description="Creed"
+
 name="Daughtry"
 section="false"
 search="false"
