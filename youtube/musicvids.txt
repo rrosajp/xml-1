@@ -104,7 +104,7 @@ subid="false"
 playlistid="PLR-rr2-b6d6QDGu48yBRQH4y1IdRVEJqm"
 channelid="false"
 videoid="false"
-icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/creed_icon.png"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/creed_icon.jpg"
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/creed_fanart.jpg"
 description="Creed"
 
