@@ -339,6 +339,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sam_sm
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sam_smith_fanart.jpg"
 description="Sam Smith"
 
+name="Sheryl Crow"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6SgnOrD4y2Ig_AafvDGChK9"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sheryl crow_icon.png"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sheryl crow_fanart.jpg"
+description="Sheryl Crow"
+
 name="Simply Red"
 section="false"
 search="false"
