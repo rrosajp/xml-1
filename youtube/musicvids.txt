@@ -273,6 +273,18 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/nickel
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/nickelback_fanart.jpg"
 description="Nickelback"
 
+name="Nelly"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6RUOC6GBQNGCPeg6_Rry2Ie"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/nickelback_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/nickelback_fanart.jpg"
+description="Nelly"
+
+
 name="Phil Collins"
 section="false"
 search="false"
