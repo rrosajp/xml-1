@@ -346,7 +346,7 @@ subid="false"
 playlistid="PLR-rr2-b6d6SgnOrD4y2Ig_AafvDGChK9"
 channelid="false"
 videoid="false"
-icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sheryl_crow_icon.png"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sheryl_crow_icon.jpg"
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sheryl_crow_fanart.jpg"
 description="Sheryl Crow"
 
