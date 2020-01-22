@@ -339,6 +339,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/steve_
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/steve_perry_fanart.jpg"
 description="Steve Perry"
 
+name="Styx"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6Qin9eExtM5QukiMaYyrZMf"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/styx_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/styx_fanart.jpg"
+description="Styx"
+
 name="Third Eye Blind"
 section="false"
 search="false"
