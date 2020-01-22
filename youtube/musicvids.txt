@@ -273,6 +273,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/phil_c
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/phil_collins_fanart.jpg"
 description="Phil Collins"
 
+name="Pink"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6SklvkZyfEcDYGyvRkRSfk_"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/pink_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/pink_fanart.jpg"
+description="Pink"
+
 name="REO Speedwagon"
 section="false"
 search="false"
