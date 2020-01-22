@@ -361,6 +361,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/third_
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/third_eye_blind_fanart.jpg"
 description="Third Eye Blind"
 
+name="Travis Tritt"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6R9DyDId21GA1ls7uek31d7"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/travis_tritt_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/travis_tritt_fanart.jpg"
+description="Travis Tritt"
+
 name="The Weekend"
 section="false"
 search="false"
