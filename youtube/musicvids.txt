@@ -152,6 +152,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/evanes
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/evanescence_fanart.jpg"
 description="Evanescence"
 
+name="Genesis"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6QTaiPuJHtq0syL7I5hIUKR"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/genesis_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/genesis_fanart.jpg"
+description="Genesis"
+
 name="Goo Goo Dolls"
 section="false"
 search="false"
