@@ -196,6 +196,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sports
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sports/boxing_fanart.jpg"
 description="Evander Holyfield vs. Michael Dokes - 1989"
 
+name="Deontay Wilder vs Tyson Fury 2 - 2020"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="false"
+videoid="TJ6y2cNBCLo"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sports/mqdefault_6s.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sports/boxing_fanart.jpg"
+description="Deontay Wilder vs Tyson Fury 2 - 2020"
+
 name="The Greatest Rounds in the History of Boxing"
 section="false"
 search="false"
