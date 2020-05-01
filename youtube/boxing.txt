@@ -148,7 +148,7 @@ subid="false"
 playlistid="false"
 channelid="false"
 videoid="Zs6-7638pYQ"
-icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sports/Zz-LahFtZig.jpg"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sports/Zs6-7638pYQ.jpg"
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/sports/boxing_fanart.jpg"
 description="Diego Corrales vs. Jose Luis Castillo - 2005"
 
