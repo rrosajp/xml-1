@@ -86,17 +86,6 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/nation
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/national_geographic_fanart.jpg"
 description="Nathional Geographic"
 
-name="History Channel"
-section="false"
-search="false"
-subid="false"
-playlistid=""
-channelid="historychannel"
-videoid="false"
-icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/history_channel_icon.png"
-fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/history_channel_fanart.jpg"
-description="History Channel"
-
 name="10 Famous Funny Commercials"
 section="false"
 search="false"
