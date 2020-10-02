@@ -75,6 +75,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/comedy
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/comedycentral_fanart.jpg"
 description="Comedy Central"
 
+name="Nathional Geographic"
+section="false"
+search="false"
+subid="false"
+playlistid=""
+channelid="NationalGeographic"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/national_geographic_icon.jpg"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/national_geographic_fanart.jpg"
+description="Nathional Geographic"
+
 name="History Channel"
 section="false"
 search="false"
