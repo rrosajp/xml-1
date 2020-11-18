@@ -163,6 +163,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/evanes
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/evanescence_fanart.jpg"
 description="Evanescence"
 
+name="Florida Georgia Line"
+section="false"
+search="false"
+subid="false"
+playlistid="PLR-rr2-b6d6QIg1rzYldJ8VsxzseGNrBz"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/FloridaGeorgiaLine_icon.png"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/FloridaGeorgiaLine_fanart.jpg"
+description="Florida Georgia Line"
+
 name="Genesis"
 section="false"
 search="false"
