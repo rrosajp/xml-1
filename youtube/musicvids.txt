@@ -42,6 +42,17 @@ icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/music_
 fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/music_video_folder_fanart.jpg"
 description="TopMusicMafia"
 
+name="BBC Radio 1"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="bbcradio1"
+videoid="false"
+icon="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/music_video_folder_icon.png"
+fanart="https://raw.githubusercontent.com/123venom/xml/master/youtube/icons/music_video_folder_fanart.jpg"
+description="BBC Radio 1"
+
 name="3 Doors Down"
 section="false"
 search="false"
